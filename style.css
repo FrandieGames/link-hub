@@ -140,7 +140,7 @@ body {
 /* ============================= */
 
 .bio {
-  text-align: start;
+  text-align: left;
   font-size: 14px;
   opacity: 0.8;
   line-height: 1.7;
